@@ -6,9 +6,13 @@ A React application displaying the name and state of the Mars-Rovers connected t
 
 Clone the repo, install dependencies and run the application for both back-end and front-end
 
+Back-end: 
+
 ```https://github.com/MBrock29/Oxehealth.git
 npm install
 npm start```
+
+Front-end:
 
 ```cd mars-rovers
 npm install
@@ -16,6 +20,6 @@ npm start```
 
 # Screenshots
 
-![alt text](Mars-Rover-screenshot-1.png)
+![alt text](../Mars-Rover-screenshot-1.png)
 
-![alt text](Mars-Rover-screenshot-2.png)
+![alt text](../Mars-Rover-screenshot-2.png)
