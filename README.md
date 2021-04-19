@@ -8,18 +8,16 @@ Clone the repo, install dependencies and run the application for both back-end a
 
 Back-end: 
 
-```https://github.com/MBrock29/Oxehealth.git
+```
+https://github.com/MBrock29/Oxehealth.git
 npm install
-npm start```
+npm start
+```
 
 Front-end:
 
-```cd mars-rovers
+```
+cd mars-rovers
 npm install
-npm start```
-
-# Screenshots
-
-![alt text](../Mars-Rover-screenshot-1.png)
-
-![alt text](../Mars-Rover-screenshot-2.png)
+npm start
+```
